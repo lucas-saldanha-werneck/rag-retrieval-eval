@@ -1,0 +1,13 @@
+[project]
+name = "rag-retrieval-eval"
+version = "0.1.0"
+description = "Offline hit@k / MRR check for small retrieval setups"
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

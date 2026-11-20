@@ -1,0 +1,119 @@
+{
+ "note": "EXAMPLE DATA, invented for this demo. Not from any real company.",
+ "docs": [
+  {
+   "id": "d01",
+   "text": "Para pedir reembolso de despesas de viagem, envie as notas fiscais pelo portal financeiro em até 30 dias após a viagem. O pagamento sai na folha seguinte."
+  },
+  {
+   "id": "d02",
+   "text": "A política de home office permite trabalho remoto até três dias por semana. A equipe define os dias fixos de presença no escritório."
+  },
+  {
+   "id": "d03",
+   "text": "Para redefinir a senha da VPN, abra o portal de acesso, escolha esqueci minha senha e confirme o código enviado ao celular cadastrado."
+  },
+  {
+   "id": "d04",
+   "text": "Incidentes de segurança devem ser reportados à equipe de segurança em até uma hora. Use o canal de plantão e descreva o que foi observado."
+  },
+  {
+   "id": "d05",
+   "text": "O orçamento anual de treinamento é de dois mil reais por pessoa. Cursos e certificações podem ser pagos com esse valor após aprovação da liderança."
+  },
+  {
+   "id": "d06",
+   "text": "Férias devem ser solicitadas com trinta dias de antecedência no sistema de RH. O gestor aprova ou sugere outras datas."
+  },
+  {
+   "id": "d07",
+   "text": "Todo código novo passa por revisão de pelo menos uma pessoa antes do merge. O pipeline de testes automáticos precisa estar verde."
+  },
+  {
+   "id": "d08",
+   "text": "Dados de clientes só podem ser acessados com a permissão mínima necessária. Acessos são revisados a cada trimestre pela equipe de segurança."
+  },
+  {
+   "id": "d09",
+   "text": "Para solicitar um notebook novo, abra um chamado de TI informando o motivo. A troca de equipamentos acontece a cada quatro anos."
+  },
+  {
+   "id": "d10",
+   "text": "O plantão de suporte funciona em escala semanal. Quem está de plantão recebe adicional e deve responder alertas críticos em quinze minutos."
+  },
+  {
+   "id": "d11",
+   "text": "Para contratar um fornecedor novo, o time de compras exige três cotações e uma análise de risco de proteção de dados."
+  },
+  {
+   "id": "d12",
+   "text": "Benefícios incluem vale-refeição, plano de saúde e auxílio-creche. A adesão é feita no primeiro mês de trabalho."
+  }
+ ],
+ "questions": [
+  {
+   "q": "Como peço reembolso de uma viagem?",
+   "answer": "d01"
+  },
+  {
+   "q": "Quantos dias posso trabalhar de casa?",
+   "answer": "d02"
+  },
+  {
+   "q": "Esqueci minha senha da VPN, o que faço?",
+   "answer": "d03"
+  },
+  {
+   "q": "Em quanto tempo devo avisar sobre um incidente de segurança?",
+   "answer": "d04"
+  },
+  {
+   "q": "Quanto a empresa paga por cursos?",
+   "answer": "d05"
+  },
+  {
+   "q": "Com quanta antecedência peço férias?",
+   "answer": "d06"
+  },
+  {
+   "q": "Preciso de revisão antes de publicar código?",
+   "answer": "d07"
+  },
+  {
+   "q": "Quem revisa quem pode ver dados de clientes?",
+   "answer": "d08"
+  },
+  {
+   "q": "Meu computador está velho, como troco?",
+   "answer": "d09"
+  },
+  {
+   "q": "Quanto tempo tenho para responder um alerta crítico de madrugada?",
+   "answer": "d10"
+  },
+  {
+   "q": "O que é exigido para fechar contrato com um fornecedor?",
+   "answer": "d11"
+  },
+  {
+   "q": "Tem auxílio para quem tem filhos pequenos?",
+   "answer": "d12"
+  },
+  {
+   "q": "Posso fazer teletrabalho toda a semana?",
+   "answer": "d02"
+  },
+  {
+   "q": "Quem ganha extra por ficar de sobreaviso?",
+   "answer": "d10"
+  },
+  {
+   "q": "Como faço para usar dinheiro da empresa em uma certificação?",
+   "answer": "d05"
+  },
+  {
+   "q": "Quais regras valem para acessar informação pessoal de usuários?",
+   "answer": "d08"
+  }
+ ]
+}
